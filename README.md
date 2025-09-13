@@ -80,4 +80,10 @@ mkdir -p logs/2025/09
 **Warning:** Permanently deletes without prompt; double-check the path.  
 **Example:**
 ```bash
-rm -rf old_folder/
+rm -rf old_folder//
+
+*Usage:* cp <src> <dst> • cp -r <dir> <dst>  
+*Example:*
+```bash
+cp notes.txt backup_notes.txt
+cp -r src/ backup/
