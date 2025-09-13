@@ -92,3 +92,8 @@ cp -r src/ backup/
 ```bash
 mv draft.txt final.txt
 mv file.txt docs/file.txt
+
+**Usage:** `cat <file>`  
+**Example:**
+```bash
+cat README.md
