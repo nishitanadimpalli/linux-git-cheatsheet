@@ -122,3 +122,7 @@ git commit -m "feat: add grep section"
 **Example:**
 ```bash
 git log --oneline --graph --decorate --all
+**Usage:** `git push origin <branch>`  
+**Example:**
+```bash
+git push origin main
