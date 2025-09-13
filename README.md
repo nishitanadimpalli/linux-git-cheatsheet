@@ -56,4 +56,11 @@ Lists files in a directory.
 **Example:**
 ```bash
 ls -la /etc
+### Linux: `pwd` — Print working directory
+**Usage:** `pwd`  
+**What it does:** Prints the absolute path of the current directory.  
+**Example:**
+```bash
+pwd
+# /home/nishita/projects/linux-git-cheatsheet
 
