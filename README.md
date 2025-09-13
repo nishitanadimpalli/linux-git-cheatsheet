@@ -126,3 +126,5 @@ git log --oneline --graph --decorate --all
 **Example:**
 ```bash
 git push origin main
+*Usage:* top  
+Displays CPU, memory, and process usage in real-time
