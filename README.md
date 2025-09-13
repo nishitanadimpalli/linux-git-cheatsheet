@@ -76,3 +76,8 @@ cd ..
 mkdir demo && cd demo
 mkdir -p logs/2025/09
 
+**Usage:** `rm -rf <path>`  
+**Warning:** Permanently deletes without prompt; double-check the path.  
+**Example:**
+```bash
+rm -rf old_folder/
