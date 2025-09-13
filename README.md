@@ -109,4 +109,9 @@ git clone git@github.com:user/repo.git
 ### Git: `git status` — Show repository status
 **Usage:** `git status`  
 **Shows:** Current branch, staged/unstaged changes, untracked files.
+### Git: `git add` — Stage changes
+**Usage:** `git add <file>` • `git add .` (stage all changes)  
+**Example:**
+```bash
+git add README.md
 
