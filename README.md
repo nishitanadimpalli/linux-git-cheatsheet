@@ -63,4 +63,10 @@ ls -la /etc
 ```bash
 pwd
 # /home/nishita/projects/linux-git-cheatsheet
+### Linux: `cd` — Change directory
+**Usage:** `cd <path>` • `cd ..` (up) • `cd ~` (home)  
+**Example:**
+```bash
+cd ~/projects
+cd ..
 
