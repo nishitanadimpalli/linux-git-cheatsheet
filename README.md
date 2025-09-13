@@ -69,4 +69,10 @@ pwd
 ```bash
 cd ~/projects
 cd ..
+### Linux: `mkdir` — Make directory
+**Usage:** `mkdir <name>` • `mkdir -p parent/child`  
+**Example:**
+```bash
+mkdir demo && cd demo
+mkdir -p logs/2025/09
 
