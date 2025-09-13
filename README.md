@@ -87,3 +87,8 @@ rm -rf old_folder//
 ```bash
 cp notes.txt backup_notes.txt
 cp -r src/ backup/
+**Usage:** `mv <src> <dst>`  
+**Example:**
+```bash
+mv draft.txt final.txt
+mv file.txt docs/file.txt
