@@ -47,4 +47,13 @@
 
 15. git push origin main  
     → Push commits to the remote `main` branch  
+### Linux: `ls`
+**Usage:** `ls -la`  
+Lists files in a directory.  
+- `-l` = long format  
+- `-a` = show hidden files  
+
+**Example:**
+```bash
+ls -la /etc
 
